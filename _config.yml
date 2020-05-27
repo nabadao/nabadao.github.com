@@ -1,10 +1,10 @@
 # Site settings
 title: 我的网络生涯
 SEOTitle: 吴超的博客 | 我的网络生涯
-header-img: img/post-bg-desk.jpg
+header-img: /img/post-bg-desk.jpg
 email: 844151453@qq.com
 description: "君子性非异也，善假于物也。"
-keyword: "BY, BY Blog, 吴超的博客, nabadao, 吴超, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 吴超的博客, nabadao, 吴超"
 url: "http://nabadao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/nabadao/nabadao.github.io.git" # you code repository
